@@ -5,7 +5,6 @@
 <script>
 import Tarea from './components/MyTarea.vue'
                                                     
-
 export default {
   name: 'App',
   components: {
